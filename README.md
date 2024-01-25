@@ -27,7 +27,7 @@ Para consultar ejemplos ingresar a la página de youtube: [https://www.youtube.c
 
 Ejecutar el comando `Contorl + Shift + P` y Seleccionar `BVT: Setup project`
 
-Se recomienda utilizar la siguiente estructura para la construcción de los casos de prueba:
+Una vez descargadas todas las librerias y ficheros quedara la siguiente estructura armada:
 
 ```Gherkin
 + features
