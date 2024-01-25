@@ -36,7 +36,7 @@ package-lock.json
 package.json
 ```
 
-a continuación, dentro del fichero `features` creamos nuestro feature en Gherkin de tal forma que la estructura queda de la siguiente forma:
+a continuación, dentro del fichero `features` creamos nuestro archivo `reserva.feature`:
 
 ```Gherkin
 + features
