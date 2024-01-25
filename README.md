@@ -2,7 +2,7 @@
 
 Este documento fue creado como guía para la implementación de la herramienta Blinq.IO.
 
-Blinq.IO es una herramienta que permite utilizar inteligencia artificial para crear casos de pruebas automatizado en Playwright
+Blinq.IO es una herramienta que permite utilizar inteligencia artificial para crear casos de pruebas automatizados en Playwright con Cucumber
 
 Para más información ingresar a la página de Blinq.IO: [https://blinq.io/](https://blinq.io/))
 
