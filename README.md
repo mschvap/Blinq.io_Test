@@ -25,7 +25,7 @@ Para consultar ejemplos ingresar a la página de youtube: [https://www.youtube.c
 
 ## Creación del proyecto
 
-Ejecutar el comando `Contorl + Shift + P` y Seleccionar `BVT: Setup project`
+Ejecutar el comando `Control + Shift + P` y Seleccionar `BVT: Setup project`
 
 Una vez descargadas todas las librerías y ficheros quedara la siguiente estructura armada:
 
