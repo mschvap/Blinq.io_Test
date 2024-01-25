@@ -1,8 +1,8 @@
 # Primeros pasos con Blinq.IO
 
-Esre documento fue creado como guia para la implementacion de la herramienta Blinq.IO.
+Este documento fue creado como guía para la implementación de la herramienta Blinq.IO.
 
-Blinq.IO es una herramienta que permite utilizar inteligencia artifical para crear casos de pruebas automatizado en Playwright
+Blinq.IO es una herramienta que permite utilizar inteligencia artificial para crear casos de pruebas automatizado en Playwright
 
 Para más información ingresar a la página de Blinq.IO: [https://blinq.io/](https://blinq.io/))
 
@@ -12,7 +12,7 @@ Para consultar ejemplos ingresar a la página de youtube: [https://www.youtube.c
 
 > * Para ejecutar el proyecto se recomienda mínimo las siguientes versiones:
 
->  * Visaul Studio Code (actualizado)
+>  * Visual Studio Code (actualizado)
 >  * Node JS (actualizado)
 >  * Extension de VSCode: Blinq.IO
 >  * Extension de Chrome: Selenium Session Connector
@@ -27,7 +27,7 @@ Para consultar ejemplos ingresar a la página de youtube: [https://www.youtube.c
 
 Ejecutar el comando `Contorl + Shift + P` y Seleccionar `BVT: Setup project`
 
-Una vez descargadas todas las librerias y ficheros quedara la siguiente estructura armada:
+Una vez descargadas todas las librerías y ficheros quedara la siguiente estructura armada:
 
 ```Gherkin
 + features
@@ -36,7 +36,7 @@ package-lock.json
 package.json
 ```
 
-A continuación dentro del fichero `features` creamos nuestro feature en Gherkin de tal forma que la estructura queda de la siguiente forma:
+a continuación, dentro del fichero `features` creamos nuestro feature en Gherkin de tal forma que la estructura queda de la siguiente forma:
 
 ```Gherkin
 + features
@@ -70,10 +70,10 @@ package.json
 
 > **NOTA**:
 
-> * No olvidar guardar los cambios cada vez que se realizan modificaciones (por defecto VSCode no guarda automaticamente lo que hacemos)
+> * No olvidar guardar los cambios cada vez que se realizan modificaciones (por defecto VSCode no guarda automáticamente lo que hacemos)
 > * Para guardar los cambios se puede hacer facilmente con el comando `Control + S`
 
-por ultimo ejecutamos el comando `Contorl + Shift + P` y Seleccionar `BVT: Generate Step Definitions`. Seleccionamos todos los Steps y presionamos el botón `OK`
+por último ejecutamos el comando `Control + Shift + P` y Seleccionar `BVT: Generate Step Definitions`. Seleccionamos todos los Steps y presionamos el botón `OK`
 
 ## Pros y Contras
 
@@ -83,7 +83,7 @@ por ultimo ejecutamos el comando `Contorl + Shift + P` y Seleccionar `BVT: Gener
 >  * Se desarrolla utilizando leguaje natural
 
 > **CONTRAS**:
->  * Algunos componentes fallan o se reconocen de forma incorrecta (Por ejemplo searchBox de Mercado libre)
->  * Páginas con mucho contenido dan errores de timeout debido a la cantidad de información que se esta procesando en el análisis
->  * La herramienta esta en una etapa muy temprana, lo cual puede presentar errores o no estar disponible
+>  * Algunos componentes fallan o se reconocen de forma incorrecta (Por ejemplo, searchBox de Mercado libre)
+>  * Páginas con mucho contenido dan errores de timeout debido a la cantidad de información que se está procesando en el análisis
+>  * La herramienta está en una etapa muy temprana, lo cual puede presentar errores o no estar disponible
 
