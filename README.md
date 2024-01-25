@@ -79,7 +79,7 @@ por ultimo ejecutamos el comando `Contorl + Shift + P` y Seleccionar `BVT: Gener
 
 > **PROS**:
 >  * Se puede ahorrar mucho tiempo escribiendo los test
->  * No se necesitan muchos conocimientos de Java Script o Playwright (Para crear los test)
+>  * No se necesitan muchos conocimientos de JavaScript o Playwright (Para crear los test)
 >  * Se desarrolla utilizando leguaje natural
 
 > **CONTRAS**:
